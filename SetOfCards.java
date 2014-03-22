@@ -1,4 +1,4 @@
-public class CardsSet {
+public class SetOfCards {
 
     	final static int cardsPerLine = 4;
     	final static int cardsPerRow = 4;
