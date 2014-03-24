@@ -1,4 +1,4 @@
-public class Card {
+public class Card { // Card class
 	private static String possibleLetters = "abcdefghijklmnopqrstuvwxyz";
     	private String cardString;
     	private boolean hidden;
